@@ -18,7 +18,7 @@
   "homepage": "https://github.com/SkylerBurgard/weekend-todo-list-sql1#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jquery": "^3.5.1",
     "node": "^14.5.0",
     "pg": "^8.3.0"
